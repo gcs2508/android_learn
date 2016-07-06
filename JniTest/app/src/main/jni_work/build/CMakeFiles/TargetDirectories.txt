@@ -1,0 +1,1 @@
+/home/jack/PW_workspace/android_learn/JniTest/app/src/main/jni_work/build/CMakeFiles/jni_hello.dir
